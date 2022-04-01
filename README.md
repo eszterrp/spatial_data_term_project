@@ -6,7 +6,8 @@ Claudia Ochoa, Eszter Pazmandi, Alejandra Vlcaria
 This repository contains our material for the Term Project for the course of Analysis of Spatial Data and Images
 
 Structure of the repository: 
-- data: contains the train, tast and validation dataset 
+- data: 
+    - train, test and validation images 
 - code:
     - functions
     - notebooks
