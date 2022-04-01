@@ -1,6 +1,5 @@
 # Analysis of Spatial Data and Images Term Project
-## Land Cover Classification with different CNN architectures
-Comparison of performance of methods
+## Land Cover Classification with different CNN architectures -- Comparison of performance of methods
 
 Claudia Ochoa, Eszter Pazmandi, Sandra Vicaria
 
