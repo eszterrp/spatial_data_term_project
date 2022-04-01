@@ -8,7 +8,7 @@ This repository contains our material for the Term Project for the course of Ana
 Structure of the repository: 
 - Data: could not been able to add the files because of their large size
     - train, test and validation images 
-    - link to the data folder on Google Drive: https://drive.google.com/drive/folders/1be9566TR8NHy8nJ2gc0RyvKhJnB5qsOV?usp=sharing
+    - link to the data folder on Google Drive: https://drive.google.com/drive/folders/1be9566TR8NHy8nJ2gc0RyvKhJnB5qsOV?usp=sharing (access granted for people with a bse.eu email)
 - Code:
     - functions: Functions that were used during the project. Classified into two groups: 
         - helper_functions.py: functions for mostly visualization purposes
