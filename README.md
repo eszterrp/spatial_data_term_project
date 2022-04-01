@@ -6,8 +6,9 @@ Claudia Ochoa, Eszter Pazmandi, Alejandra Vlcaria
 This repository contains our material for the Term Project for the course of Analysis of Spatial Data and Images
 
 Structure of the repository: 
-- data: 
+- Data: 
     - train, test and validation images 
-- code:
+- Code:
     - functions
     - notebooks
+- Term paper
