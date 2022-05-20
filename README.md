@@ -3,7 +3,7 @@
 
 Claudia Ochoa, Eszter Pazmandi, Sandra Vicaria
 
-*This repository contains our material for the Term Project for the course of Analysis of Spatial Data and Images*
+*This repository contains our material for the Term Project for the course of Analysis of Spatial Data and Images at the Barcelona School of Econommics's Data Science for Decision Making program*
 
 Structure of the repository: 
 - **Data:** could not been able to add the files because of their large size
